@@ -9,7 +9,7 @@ const ChildComponents = (props: any) => {
 
       <div className=" shadow-lg rounded-lg p-8 w-96 border border-gray-300 bg-gray-200">
         <h2 className="text-2xl font-bold text-center mb-6 text-gray-700">
-          Class 11 Assignment Props
+          Class 11 Assignment Prop
         </h2>
 
         <div className="space-y-4">
